@@ -43,7 +43,6 @@
             "outputPath": "dist/ng-lite-todo",
             "index": "src/index.html",
             "main": "src/main.ts",
-            "polyfills": "src/polyfills.ts",
             "tsConfig": "tsconfig.json",
             "assets": [
               "src/favicon.ico",
