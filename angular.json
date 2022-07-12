@@ -41,12 +41,15 @@
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
             "outputPath": "dist/ng-lite-todo",
-            "index": "src/index.html",
+            "index": "src/public/index.html",
             "main": "src/main.ts",
             "tsConfig": "tsconfig.json",
             "assets": [
-              "src/favicon.ico",
-              "src/assets"
+              {
+                "glob": "**/*",
+                "input": "src/public",
+                "output": "."
+              }
             ],
             "styles": [
               "src/styles.css"
