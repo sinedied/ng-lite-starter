@@ -1,27 +1,22 @@
-# NgLiteTodo
+# 🪶 ng-lite starter
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.5.
+> Minimal starter for Angular projects.
 
-## Development server
+See this [dev.to article](WIP) to see how this starter was created and for more details about the differences with Angular CLI's default `ng new`.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Usage
 
-## Code scaffolding
+To create a new project from this starter, you can either:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- Run `npx degit sinedied/ng-lite-starter <project-name>`
+- Or select **Use this template** button at the top of this repository and follow the instructions.
 
-## Build
+## Tasks
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+This starter is used the same way as any Angular project, ie using the included NPM scripts or the Angular CLI directly:
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
+- `ng serve`: run dev server at `http://localhost:4200/`
+- `ng build`: build the project in the `dist/` directory.
+- `ng generate component component-name`: generates a new component.
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
