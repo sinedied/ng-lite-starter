@@ -29,5 +29,5 @@ import { Component } from '@angular/core';
   styles: []
 })
 export class AppComponent {
-  title = 'ng-lite-todo';
+  title = 'ng-lite-app';
 }
