@@ -13,7 +13,7 @@ To create a new project from this starter, you can either:
 
 ## Tasks
 
-This starter is used the same way as any Angular project, ie using the included NPM scripts or the Angular CLI directly:
+This starter works the same way as any Angular project, by using either the included NPM scripts or the Angular CLI directly:
 
 - `ng serve`: run dev server at `http://localhost:4200/`
 - `ng build`: build the project in the `dist/` directory.
@@ -84,4 +84,4 @@ You can add unit testing to your project using the [Jest](https://jestjs.io) tes
   });
   ```
 
-You can now run your test with `ng test` or `ng test --watch`.
+You can now run your tests with `ng test` or `ng test --watch`.
