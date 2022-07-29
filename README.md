@@ -2,7 +2,7 @@
 
 > Minimal starter for Angular projects.
 
-See this [dev.to article](https://dev.to/angular/a-simpler-and-smaller-angular-starter-with-nglite-1ooh) to see how this starter was created and for more details about the differences with Angular CLI's default `ng new`.
+See this [dev.to article](https://dev.to/angular/a-simpler-and-smaller-angular-starter-with-nglite-1ooh) to learn how this starter was created and for more details about the differences with Angular CLI's default `ng new`.
 
 ## Usage
 
