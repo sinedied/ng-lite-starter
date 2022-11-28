@@ -4,6 +4,8 @@
 
 See this [dev.to article](https://dev.to/angular/a-simpler-and-smaller-angular-starter-with-nglite-1ooh) to learn how this starter was created and for more details about the differences with Angular CLI's default `ng new`.
 
+*Note: the article was written based on Angular 14, and this starter has been updated since so you can expect a few differences since Angular 15 base starter simplified a few things already.* 🙂
+
 ## Usage
 
 To create a new project from this starter, you can either:
